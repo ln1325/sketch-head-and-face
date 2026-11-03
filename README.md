@@ -11,7 +11,20 @@
 
 <a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90">
     速写素材_头部素材
+<p>
 </a>
+|__
+    <a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90/%E5%84%BF%E7%AB%A5%E5%A4%B4%E9%83%A8%E5%8F%82%E8%80%83">儿童头部参考</a> 
+</p>
+
+<p>|__
+    <a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90/%E5%A4%B4%E9%83%A8%E4%BA%94%E5%AE%98%E7%BB%86%E8%8A%82">头部五官细节</a>
+</p>
+
+<p>|__
+    <a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90/%E7%BA%BF%E6%8F%8F%E5%8F%82%E8%80%83%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90">线描参考头部素材</a>
+</p>
+
 
 ---
 以下内容为AI生成，请检查是否准确，因为我不使用Git这个命令行软件，我也不知道如何获取Raw链接
