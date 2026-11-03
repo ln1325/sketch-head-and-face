@@ -5,12 +5,10 @@
 我从我的老师们得到了这些速写素材，有很小的一部分是 AI 生成的图片，但是我并没有找到 AI 水印标记。
 我决定把这些好看的速写画作分享到这里（其实是我想找别的地方存放），并不定期添加内容。
 
-> 因文件数量较多，我将会把它们分好类别存放于不同仓库    10月14日 2026年
-
 ## 快速跳转通道
 
 <a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90">
-    速写素材_头部素材（仓库名称：sketch-head-and-face）
+    ✦ 速写素材_头部素材（仓库名称：sketch-head-and-face）
 
 </a>
 
@@ -27,7 +25,9 @@
 </p>
 
 
-<a href="https://github.com/ln1325/sketch-single-person-templates">速写素材_单人模板</a>
+<a href="https://github.com/ln1325/sketch-single-person-templates">
+    速写素材_单人模板（仓库名称：sketch-single-person-templates）
+</a>
 
 <p>|__
     <a href="https://github.com/ln1325/sketch-single-person-templates/tree/main/%E4%B8%8D%E5%90%8C%E8%BA%AB%E4%BB%BD%E5%A4%96%E8%A7%82">不同身份外观</a>
