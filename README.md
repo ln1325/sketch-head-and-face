@@ -33,6 +33,23 @@
     <a href="https://github.com/ln1325/sketch-single-person-templates/tree/main/%E4%B8%8D%E5%90%8C%E8%BA%AB%E4%BB%BD%E5%A4%96%E8%A7%82">不同身份外观</a>
 </p>
 
+<p>|__
+    <a href="https://github.com/ln1325/sketch-single-person-templates/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%8D%95%E4%BA%BA%E6%A8%A1%E6%9D%BF/%E4%BA%BA%E4%BD%93%E9%83%A8%E4%BD%8D%E7%B4%A0%E6%9D%90">
+        人体部位素材
+    </a>
+</p>
+
+<p>|__
+    <a href="https://github.com/ln1325/sketch-single-person-templates/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%8D%95%E4%BA%BA%E6%A8%A1%E6%9D%BF/%E5%8D%95%E4%BA%BA%E4%BD%93%E5%9D%97%E5%8A%A8%E4%BD%9C">
+        单人体块动作
+    </a>
+</p>
+
+<p>|__
+    <a href="https://github.com/ln1325/sketch-single-person-templates/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%8D%95%E4%BA%BA%E6%A8%A1%E6%9D%BF/%E5%8D%95%E4%BA%BA%E7%BA%BF%E6%8F%8F%E7%BB%83%E6%89%8B">
+        单人线描练手
+    </a>
+</p>
 ---
 以下内容为AI生成，请检查是否准确，因为我不使用Git这个命令行软件，我也不知道如何获取Raw链接
 ---
