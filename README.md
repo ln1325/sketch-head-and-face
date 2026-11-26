@@ -81,6 +81,21 @@
 |__
 [道具素材](https://github.com/ln1325/sketch-full-scene/tree/84ff9e23aaa67226e0067b6caff034fd8aefa5b4/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%9C%BA%E6%99%AF%E6%A8%A1%E6%9D%BF/%E9%81%93%E5%85%B7%E7%B4%A0%E6%9D%90)
 
+
+[速写素材_插画及连环画（仓库名称：sketch-other-references）](https://github.com/ln1325/sketch-other-references/tree/cf7ea3f0177c9dc447c7cdba2701437f7e01d2bd/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E6%8F%92%E7%94%BB%E5%8F%8A%E8%BF%9E%E7%8E%AF%E7%94%BB)
+<br>
+|__
+[插画](https://github.com/ln1325/sketch-other-references/tree/cf7ea3f0177c9dc447c7cdba2701437f7e01d2bd/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E6%8F%92%E7%94%BB%E5%8F%8A%E8%BF%9E%E7%8E%AF%E7%94%BB/%E6%8F%92%E7%94%BB)
+<br>
+|__
+[连环画](https://github.com/ln1325/sketch-other-references/tree/cf7ea3f0177c9dc447c7cdba2701437f7e01d2bd/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E6%8F%92%E7%94%BB%E5%8F%8A%E8%BF%9E%E7%8E%AF%E7%94%BB/%E8%BF%9E%E7%8E%AF%E7%94%BB)
+<br>
+&emsp;&emsp;|__
+[上海老小吃](https://github.com/ln1325/sketch-other-references/tree/cf7ea3f0177c9dc447c7cdba2701437f7e01d2bd/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E6%8F%92%E7%94%BB%E5%8F%8A%E8%BF%9E%E7%8E%AF%E7%94%BB/%E8%BF%9E%E7%8E%AF%E7%94%BB/%E4%B8%8A%E6%B5%B7%E8%80%81%E5%B0%8F%E5%90%83)
+<br>
+&emsp;&emsp;|__
+[连环画_朝阳沟](https://github.com/ln1325/sketch-other-references/tree/cf7ea3f0177c9dc447c7cdba2701437f7e01d2bd/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E6%8F%92%E7%94%BB%E5%8F%8A%E8%BF%9E%E7%8E%AF%E7%94%BB/%E8%BF%9E%E7%8E%AF%E7%94%BB/%E8%BF%9E%E7%8E%AF%E7%94%BB_%E6%9C%9D%E9%98%B3%E6%B2%9F)
+
 ---
 以下内容为AI生成，请检查是否准确，因为我不使用Git这个命令行软件，我也不知道如何获取Raw链接
 ---
